@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 30%;
+    top: 50px;
+    display: flex;
+    justify-content: center;
+    background-color: orangered;
+    align-items: center;
+}
+
+.logo img {
+    width: 50%;
+    border: 2px solid white;
+    border-radius: 50%;
+
+}
+
+.navbar{
+    display: flex;
+}
+.nav-list{
+    width: 100%;
+    background-color: orangered;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list li {
+    list-style: none;
+    padding: 40px 60px;
+    text-align: right;
+
+}
+
+.nav-list li a{
+    text-decoration: none;
+    color: white;
+    font-size: 28px;
+}
+
+.nav-list li a:hover{
+    text-decoration: none;
+    color :black;
+}
+
+#name {
+    position: absolute;
+    width: 163px;
+    height: 26px;
+    left: 332px;
+    top: 200px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+#name1 {
+    position: absolute;
+    width: 163px;
+    height: 26px;
+    left: 600px;
+    top: 200px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+}
+
+#phno{
+    position: absolute;
+width: 163px;
+height: 26px;
+left: 332px;
+top: 270px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#phno1{
+    position: absolute;
+width: 163px;
+height: 26px;
+left: 600px;
+top: 270px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#address{
+    position: absolute;
+width: 163px;
+height: 26px;
+left: 330px;
+top: 346px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#address1{
+    position: absolute;
+width: 163px;
+height: 26px;
+left: 600px;
+top: 346px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#hname{
+    position: absolute;
+width: 162px;
+height: 26px;
+left: 332px;
+top: 423px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#hname1{
+    position: absolute;
+width: 162px;
+height: 26px;
+left: 600px;
+top: 423px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#meals{
+    position: absolute;
+width: 164px;
+height: 26px;
+left: 332px;
+top: 507px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#meals1{
+    position: absolute;
+width: 164px;
+height: 26px;
+left: 600px;
+top: 507px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#tof{
+    position: absolute;
+width: 167px;
+height: 26px;
+left: 330px;
+top: 591px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#tof1{
+    position: absolute;
+width: 167px;
+height: 26px;
+left: 600px;
+top: 591px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 26px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+#submit{
+    position: absolute;
+    width: 163px;
+    height: 26px;
+    left: 850px;
+    top: 346px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+}
